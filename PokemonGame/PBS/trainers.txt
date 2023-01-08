@@ -91,8 +91,8 @@ Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
 [RIVAL1,Gary,1]
-LoseText = I lost !
-Pokemon = SQUIRTLE,5
+LoseText = You're pretty tough !
+Pokemon = ROTOM,5
 #-------------------------------
 [RIVAL1,Gary,2]
 LoseText = I lost !
