@@ -92,7 +92,7 @@ Pokemon = GOLDEEN,11
 #-------------------------------
 [RIVAL1,Gary,1]
 LoseText = You're pretty tough !
-Pokemon = ROTOM,5
+Pokemon = ROTOM,3
 #-------------------------------
 [RIVAL1,Gary,2]
 LoseText = I lost !
