@@ -406,3 +406,7 @@ Name = Twitch Streamer
 Gender = Female
 BaseMoney = 120
 #-------------------------------
+[TWITCH_MODERATOR]
+Name = Twitch Moderator
+Gender = Male
+BaseMoney = 50

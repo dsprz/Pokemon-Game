@@ -958,8 +958,8 @@ Power = 100
 Accuracy = 95
 TotalPP = 5
 Target = NearOther
-FunctionCode = None
-Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
+FunctionCode = BoostedInCrushingGravity
+Flags = CanProtect,CanMirrorMove,AlwaysCriticalHit
 Description = The user tears the target along with the space around it. Critical hits land more easily.
 #-------------------------------
 [DRAGONHAMMER]
@@ -6628,7 +6628,7 @@ Description = The user transforms into a copy of the target right down to having
 #-------------------------------
 [WHIRLWIND]
 Name = Whirlwind
-Type = NORMAL
+Type = FLYING
 Category = Status
 Accuracy = 0
 TotalPP = 20

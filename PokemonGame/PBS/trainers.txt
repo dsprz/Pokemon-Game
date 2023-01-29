@@ -131,10 +131,10 @@ Pokemon = BLASTOISE,63
 #----
 [YOUNGSTER,Beepus]
 LoseText = Fuck...
-Pokemon = RATTATA,3
+Pokemon = RATTATA,1
 #-----
-[SUPERNERD,Connor]
-LoseText = According to my calculations I was supposed to win...
+[TWITCH_MODERATOR,Connor]
+LoseText = I will ban you !
 Pokemon = GASTLY,3
 #-----
 [TWITCH_STREAMER_F,Delphine]

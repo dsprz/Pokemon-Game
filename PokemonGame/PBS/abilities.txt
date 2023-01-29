@@ -1070,8 +1070,15 @@ Description = Combines Unnerve and Chilling Neigh Abilities.
 [ASONEGRIMNEIGH]
 Name = As One
 Description = Combines Unnerve and Grim Neigh Abilities.
-
 #------------------------------
 [STRANGEROOM]
 Name = Strange Room
 Description = Invokes Trick Room. Does not remove it on switch-in.
+#------------------------------
+[TIMEACCELERATION]
+Name = Time Acceleration
+Description = The Pokemon moves first, strikes twice and does not have any recharge time.
+#------------------------------
+[CMOON]
+Name = C-Moon
+Description = Invokes Crushing Gravity and does not remove it on switch-in.
